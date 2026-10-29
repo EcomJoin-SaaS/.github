@@ -31,7 +31,7 @@
 | المنصة | الرابط |
 | :--- | :--- |
 | 🌐 **الموقع الرسمي** | [www.ecomjoin.com](https://www.ecomjoin.com) |
-| 📘 **Facebook** | [EcomJoin on Facebook](https://www.facebook.com/ecomjoin) |
+| 📘 **Facebook** | [EcomJoin on Facebook](https://www.youtube.com/@ECOMJOIN) |
 | 📸 **Instagram** | [@ecomjoin](https://www.instagram.com/ecomjoin) |
 | 🎥 **YouTube** | [EcomJoin Channel](https://www.youtube.com/@ECOMJOIN) |
 
