@@ -2,7 +2,7 @@
 
   <!-- Logo -->
   <a href="https://www.ecomjoin.com">
-    <img src="https://res.cloudinary.com/dj278hj5l/image/upload/v1781565598/merchant_logos/plntxl4nmky7f7z2ioin.jpg" alt="EcomJoin Logo" width="180" />
+    <img src="https://res.cloudinary.com/dj278hj5l/image/upload/v1780318388/merchant_logos/dczufy2tzjb872zhpukd.png" alt="EcomJoin Logo" width="180" />
   </a>
 
   # 🚀 EcomJoin — E-commerce & AI Automation Platform
